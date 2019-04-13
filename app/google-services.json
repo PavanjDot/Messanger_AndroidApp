@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392144488214",
+    "firebase_url": "https://messanger-520e5.firebaseio.com",
+    "project_id": "messanger-520e5",
+    "storage_bucket": "messanger-520e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392144488214:android:a5230fd3e05b1bcd",
+        "android_client_info": {
+          "package_name": "com.plantquiz.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392144488214-v11mtoqkaa0c8nj5s4u3ovvqlb9qnj2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBMoP5wdmLQbdmxtbJvcSkDb3t7cBAwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
